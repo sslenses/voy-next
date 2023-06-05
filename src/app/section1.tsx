@@ -6,7 +6,7 @@ import { UilApple } from "@iconscout/react-unicons";
 import { UilGooglePlay } from "@iconscout/react-unicons";
 import { UilPlayCircle } from "@iconscout/react-unicons";
 
-const Sec1 = () => {
+function Sec1() {
   return (
     <div className=" w-screen bg-slate-50 tracking-wider border h-screen">
       <div className=" relative h-96 container w-8/12 mx-auto pt-16 text-blue-950">
@@ -50,6 +50,6 @@ const Sec1 = () => {
       </div>
     </div>
   );
-};
+}
 
 export default Sec1;

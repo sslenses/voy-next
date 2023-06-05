@@ -2,7 +2,7 @@ import React from "react";
 
 const Copyright = () => {
   return (
-    <div className=" pb-8 pt-3 container w-8/12 mx-auto flex text-xs text-gray-950 tracking-wider ">
+    <div className=" pb-8 pt-3 container w-8/12 mx-auto flex text-xs text-gray-950 tracking-wider">
       <p className=" text-gray-600 font-light ">
         Copyright © 2023{" "}
         <a href="" className=" hover:underline hover:text-gray-950 ">
