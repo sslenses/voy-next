@@ -64,6 +64,8 @@ const FooterLinks = () => {
               Credit Sale
             </a>
           </p>
+          <br />
+          <p className=" font-semibold text-blue-950 ">Hub Stations</p>
         </div>
         {/*  */}
         <div>

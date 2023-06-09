@@ -28,7 +28,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "types"
+    "types",
+    ".next/iconscout__react-unicons.d.ts"
   ],
   "exclude": ["node_modules"]
 }
